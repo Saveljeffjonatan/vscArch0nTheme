@@ -6,7 +6,14 @@
     "engines": {
         "vscode": "^1.61.0"
     },
-    "publisher": "Jonatan",
+    "publisher": "arch0n",
+    "author": {
+        "name": "Jonatan Saveljeff"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Saveljeffjonatan/vscArch0nTheme"
+    },
     "categories": [
         "Themes"
     ],
