@@ -1,0 +1,28 @@
+{
+    "name": "arch0n",
+    "displayName": "arch0n",
+    "description": "Clean but powerful colors, made with coding 24/7 in mind. Hope you enjoy it, please come with feedback if you have any questions!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Easy colors",
+        "Dark",
+        "Yellow",
+        "Blue",
+        "Green"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "archon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/archon-color-theme.json"
+            }
+        ]
+    }
+}
