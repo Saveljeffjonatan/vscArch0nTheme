@@ -6,10 +6,10 @@ I wanted to have something that was colorful but still light on the eyes. I sear
 
 Colors being used:
 
-- #367FFF
-- #FDE74C
-- #F78C6C
-- #ABC924
+- <span style="#367FFF">#367FFF</span>
+- <span style="#FDE74C">#FDE74C</span>
+- <span style="#F78C6C">#F78C6C</span>
+- <span style="#ABC924">#ABC924</span>
 
 ## Installation
 
